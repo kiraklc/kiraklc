@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi, I'm a game developer with a passion for creating fun and exciting games for players of all ages.Currently working at Imdie.</div>  
+### <div align="center">Hi, I'm a game developer with a passion for creating fun and exciting games for players of all ages.Currently working at [Imdie](https://www.imdiestudios.com/)</div>  
   
 
 <br/>  
