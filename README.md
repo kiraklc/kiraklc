@@ -1,10 +1,6 @@
 <div align="center">
 <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e476sb49i99pw1zwem0fx8cxw2pldxaemrqdpl4tko5&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" height="" width="100" />
-</div>  
-  
-
-### <div align="center">Hi, I'm a game developer with a passion for creating fun and exciting games for players of all ages.Currently working at [Imdie](https://www.imdiestudios.com/)</div>  
-  
+</div> 
 
 <br/>  
 
